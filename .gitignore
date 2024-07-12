@@ -1,0 +1,4 @@
+# Ignore compiled bytecode files and __pycache__ directory
+__pycache__/
+*.py[cod]
+
